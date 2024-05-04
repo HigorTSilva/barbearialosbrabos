@@ -229,6 +229,7 @@ i {
   justify-content: center;
   gap: 1rem;
   padding: 0 44px 34px 44px;
+  margin-top: 2rem;
 }
 
 .haircut {
@@ -290,6 +291,15 @@ i {
 .footer-icons {
   display: flex;
   gap: 12px;
+}
+
+.footer-icons i {
+  transition: 0.3s;
+}
+
+.footer-icons i:hover {
+  transform: translateY(-3px);
+  color: #d94140;
 }
 
 .footer p {
