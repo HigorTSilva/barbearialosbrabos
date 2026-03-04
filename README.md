@@ -10,7 +10,7 @@
 
 ## 📸 Preview
 
-![Preview](./.github/preview.png)
+![Preview](https://github.com/HigorTSilva/barbearialosbrabos/blob/master/imagem-churras-fast.png)
 
 ---
 
